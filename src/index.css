@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+}
+
+@font-face {
+    font-family: 'OpenSans-SemiBold';
+    src:  url(./fonts/OpenSans/OpenSans-SemiBold.ttf) format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'OpenSans-Bold';
+    src:  url(./fonts/OpenSans/OpenSans-Bold.ttf) format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'OpenSans-ExtraBold';
+    src:  url(./fonts/OpenSans/OpenSans-ExtraBold.ttf) format('truetype');
+  }

@@ -1,0 +1,86 @@
+[
+    {
+        "category": "Winterwear",
+        "products": [
+            {
+                "name":"Black SweatShirt",
+                "price": "699",
+                "image": "./images/black-sweatshirt.jpg",
+                "category": "Winterwear"
+            },
+            {
+                "name":"Yellow SweatShirt",
+                "price": "599",
+                "image": "/images/yellow-hoodie.jpg",
+                "category": "Winterwear"
+            },
+            {
+                "name":"Grey SweatShirt",
+                "price": "799",
+                "image": "/images/grey-hoodie.jpg",
+                "category": "Winterwear"
+            },
+            {
+                "name":"Navy Hoodie",
+                "price": "649",
+                "image": "/images/navy-blue-hoodie.jpg",
+                "category": "Winterwear"
+            },
+            {
+                "name":"Black W SweatShirt",
+                "price": "669",
+                "image": "/images/wildcard-hoddie.jpg",
+                "category": "Winterwear"
+            },
+            {
+                "name":"Black Hoodie",
+                "price": "629",
+                "image": "/images/black-hoodie.jpg",
+                "category": "Winterwear"
+            }
+            
+        ]
+    },
+    {
+        "category": "Ladies Winterwear",
+        "products": [
+            {
+                "name":"Orange Jacket",
+                "price": "899",
+                "image": "./images/orange-ladies-jacket.jpg",
+                "category": "Ladies Winterwear"
+            },
+            {
+                "name":"Green Jacket",
+                "price": "699",
+                "image":"./images/green-ladies-jacket.jpg",
+                "category": "Ladies Winterwear"
+            },
+            {
+                "name":"Pink Jacket",
+                "price": "499",
+                "image": "./images/light-pink-jacket.jpg",
+                "category": "Ladies Winterwear"
+            },
+            {
+                "name":"Yellow Jacket",
+                "price": "649",
+                "image": "./images/yellow-ladies.jpg",
+                "category": "Ladies Winterwear"
+            },
+            {
+                "name":"Red Jacket",
+                "price": "669",
+                "image": "./images/red-jacket-ladies.jpg",
+                "category": "Ladies Winterwear"
+            },
+            {
+                "name":"Pink Jacket",
+                "price": "629",
+                "image": "./images/pink-jacket.jpg",
+                "category": "Ladies Winterwear"
+            }
+            
+        ]
+    }
+]
